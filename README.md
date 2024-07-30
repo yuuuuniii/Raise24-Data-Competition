@@ -15,16 +15,16 @@ Reference: [Fear of Artificial Intelligence? NLP, ML and LLMs Based Discovery of
 Our objective is to investigate whether the media perpetuates fear of AI. By analyzing 10,000 news headlines, we employ advanced sentiment analysis and emotion detection models. We leverage natural language processing (NLP) methods and machine learning (ML) models such as BART-large-mnli and Emotion-English-DistilRoBERTa-base. Through this analysis, we aim to uncover the nuances of AI-related news framing and explore the societal impact of news headlines.
 
 ## 🎯Project Structure
-## README.md
+### README.md
 
-## Data
+### Data
 
 ● Dataset_10k.csv
 
-## Notebooks
+### Notebooks
 
 ● AInsight_final.ipynb
 
-## Presentation
+### Presentation
 
 ● AInsight_Slide.pdf
